@@ -2,3 +2,5 @@ images/Progression.PNG filter=lfs diff=lfs merge=lfs -text
 images/eatcake-graphplan2.png filter=lfs diff=lfs merge=lfs -text
 images/statespace.png filter=lfs diff=lfs merge=lfs -text
 images/twotofive.png filter=lfs diff=lfs merge=lfs -text
+heuristic_analysis.pdf filter=lfs diff=lfs merge=lfs -text
+research_review.pdf filter=lfs diff=lfs merge=lfs -text
